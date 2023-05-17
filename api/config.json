@@ -1,0 +1,9 @@
+{
+     "BASE_URL": "http://localhost:5000",
+     "FRONT_BASE_URL": "http://localhost:3000",
+     "MONGO_URL": "mongodb+srv://patrickdturner420:lUT8FcqxKXvoBTra@cluster0.7ztblay.mongodb.net/users-data?retryWrites=true&w=majority",
+     "FRONTEND_JWT_SECRET": "frontend-seckret",
+     "FRONTEND_USER_JWT_SECRET": "frontent-user-seckretkey",
+     "REACT_APP_API_URL": "http://localhost:5000",
+     "PORT": 5000
+   }
